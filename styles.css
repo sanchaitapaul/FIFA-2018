@@ -1,0 +1,25 @@
+body{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 14px;
+    background-color: blueviolet;
+}
+.form-group{
+    display: inline;
+}
+
+.reg{
+    max-width:40%;
+    margin: auto;
+}
+
+.log{
+    max-width:30%;
+    margin: auto;
+}
+.header{
+    color: aliceblue;
+}
+
+.error{
+    height:auto;
+}
